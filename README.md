@@ -1,4 +1,4 @@
-<h2 align="center">Football Analysis using YOLO and CNNsn</h2>. 
+<h2 align="center">Football Analysis using YOLO and CNN</h2>. 
 
 <div align= "center"><img src="output_videos/screenshot.png" width="550" height="350"/>
   <h5>This project analyzes Football players in a video to measure their speed, ball control and more.</h5>
